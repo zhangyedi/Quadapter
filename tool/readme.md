@@ -24,7 +24,7 @@ Please install gurobypy from PyPI:
 $ pip install gurobipy
 ```
 
-For MILP-based solving usage, please install Gurobi on your machine.
+Please install Gurobi on your machine.
 
 ## Running Quadapter for Certified Robustness
 ```shell script
