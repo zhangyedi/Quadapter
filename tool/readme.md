@@ -4,7 +4,7 @@ This is the official webpage for paper *Certified Quantization Strategy Synthesi
 - WeproposeanovelMILP-basedmethod,tocomputeanunder-approximation of the preimage for each layer efficiently and effectively;
 - We implement our methods into a tool Quadapter and conduct extensive experiments to demonstrate the application of the certified quantization for preserving robustness and backdoor-freeness properties.
 
-## Benchmarks in Sections 5.1 & 5.2 & 5.3:
+## Benchmarks in Sections 5.1 & 5.2:
 
 The 50 randomly selected inputs from the test set of the respective dataset (shown by IDs):
 
